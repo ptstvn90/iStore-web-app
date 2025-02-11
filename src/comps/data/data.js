@@ -426,36 +426,36 @@ export const productslist = [
 export const ownersPosts = [
   {
     id: 1,
-    image: "../src/assets/imgs/owner1.jpg",
+    image: "../imgs/owner1.jpg",
     caption: "Caption for post 1",
   },
   {
     id: 2,
-    image: "../src/assets/imgs/owner2.webp",
+    image: "../imgs/owner2.webp",
     caption: "Caption for post 2",
     
   },
   {
     id: 3,
-    image: "../src/assets/imgs/owner3.jpg",
+    image: "../imgs/owner3.jpg",
     caption: "Caption for post 3",
     
   },
   {
     id: 4,
-    image: "../src/assets/imgs/owner4.jpg",
+    image: "../imgs/owner4.jpg",
     caption: "Caption for post 4",
    
   },
   {
     id: 5,
-    image: "../src/assets/imgs/owner5.jpg",
+    image: "../imgs/owner5.jpg",
     caption: "Caption for post 5",
   
   },
   {
     id: 6,
-    image: "../src/assets/imgs/owner6.jpg",
+    image: "../imgs/owner6.jpg",
     caption: "Caption for post 6",
     
   },
