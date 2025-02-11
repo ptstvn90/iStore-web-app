@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { CartActions, selectTotalPrice } from "../../redux/cartSlice";
-import BackgroundImage from "../../assets/imgs/cart_backg.jpg";
+import BackgroundImage from "/imgs/cart_backg.jpg";
 import { IoCloseOutline } from "react-icons/io5";
 import StripeCheckout from "react-stripe-checkout";
 

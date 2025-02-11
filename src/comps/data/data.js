@@ -5,7 +5,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_15_black.jpg",
+    image: "../imgs/iphone_15_black.jpg",
     price: 699,
   },
 
@@ -15,7 +15,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_15_pro.jpg",
+    image: "../iphone_15_pro.jpg",
     price: 1099,
   },
 
@@ -25,7 +25,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_15_pro_max.jpg",
+    image: "../imgs/iphone_15_pro_max.jpg",
     price: 1299,
   },
 
@@ -35,7 +35,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_16_black.jpg",
+    image: "../imgs/iphone_16_black.jpg",
     price: 799,
   },
 
@@ -45,7 +45,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_16_pro.jpg",
+    image: "../imgs/iphone_16_pro.jpg",
     price: 999,
   },
 
@@ -55,7 +55,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/iphone_16_pro_max.jpg",
+    image: "../imgs/iphone_16_pro_max.jpg",
     price: 1199,
   },
 ];
@@ -67,7 +67,7 @@ export const promotionalInformation = [
     title: "+ 1 year Warranty for this product if you order in the next 24h",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/bb.jpg",
+    image: "../imgs/bb.jpg",
     price: 1199,
   },
   {
@@ -76,7 +76,7 @@ export const promotionalInformation = [
     title: "+ 2 years DeviceCare+ for this product if you order today!",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../src/assets/imgs/b2.jpg",
+    image: "../imgs/b2.jpg",
     price: 1199,
   },
 ]
@@ -88,7 +88,7 @@ export const productslist = [
     category: "phones",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: ["../src/assets/imgs/iphone_16_black.jpg"],
+    image: ["../imgs/iphone_16_black.jpg"],
     price: 799,
   },
   {
@@ -97,7 +97,7 @@ export const productslist = [
     category: "phones",
     description:
       "The iPhone SE combines the powerful A15 Bionic chip with a compact 4.7-inch Retina display and Touch ID for a classic experience.",
-    image: ["../src/assets/imgs/iphone_se3.jpg"],
+    image: ["../imgs/iphone_se3.jpg"],
     price: 429,
   },
   {
@@ -106,7 +106,7 @@ export const productslist = [
     category: "phones",
     description:
       "iPhone 13 features a sleek flat-edge design, Super Retina XDR display, and dual-camera system with Cinematic mode.",
-    image: ["../src/assets/imgs/iphone_13.jpg"],
+    image: ["../imgs/iphone_13.jpg"],
     price: 599,
   },
   {
@@ -115,7 +115,7 @@ export const productslist = [
     category: "phones",
     description:
       "iPhone 14 offers improved battery life, enhanced low-light photography, and Crash Detection for added safety.",
-    image: ["../src/assets/imgs/iphone14.jpg"],
+    image: ["../imgs/iphone14.jpg"],
     price: 699,
   },
   {
@@ -124,7 +124,7 @@ export const productslist = [
     category: "phones",
     description:
       "With a 6.7-inch display, iPhone 14 Plus delivers all-day battery life and powerful A15 Bionic performance.",
-    image: ["../src/assets/imgs/iphone14_plus.jpg"],
+    image: ["../imgs/iphone14_plus.jpg"],
     price: 799,
   },
   {
@@ -133,7 +133,7 @@ export const productslist = [
     category: "phones",
     description:
       "iPhone 15 features a new Dynamic Island, a powerful A16 Bionic chip, and a 48MP camera for stunning photography.",
-    image: ["../src/assets/imgs/iphone_15_black.jpg"],
+    image: ["../imgs/iphone_15_black.jpg"],
     price: 799,
   },
   {
@@ -142,7 +142,7 @@ export const productslist = [
     category: "phones",
     description:
       "iPhone 15 Pro is crafted with aerospace-grade titanium, featuring an A17 Pro chip and an advanced camera system.",
-    image: ["../src/assets/imgs/iphone_15_pro.jpg"],
+    image: ["../imgs/iphone_15_pro.jpg"],
     price: 999,
   },
   {
@@ -151,7 +151,7 @@ export const productslist = [
     category: "phones",
     description:
       "The largest iPhone with a 6.7-inch display, periscope zoom camera, and an A17 Pro chip for superior performance.",
-    image: ["../src/assets/imgs/iphone_15_pro_max.jpg"],
+    image: ["../imgs/iphone_15_pro_max.jpg"],
     price: 1199,
   },
   {
@@ -160,7 +160,7 @@ export const productslist = [
     category: "phones",
     description:
       "iPhone 16 Pro introduces new AI-driven features, a ProMotion display, and enhanced computational photography.",
-    image: ["../src/assets/imgs/iphone_16_pro.jpg"],
+    image: ["../imgs/iphone_16_pro.jpg"],
     price: 1099,
   },
   {
@@ -169,7 +169,7 @@ export const productslist = [
     category: "phones",
     description:
       "With an even larger battery and upgraded cameras, iPhone 16 Pro Max is the ultimate Apple flagship.",
-    image: ["../src/assets/imgs/iphone_16_pro_max.jpg"],
+    image: ["../imgs/iphone_16_pro_max.jpg"],
     price: 1299,
   },
   {
@@ -178,7 +178,7 @@ export const productslist = [
     category: "airpods",
     description:
       "The fourth generation AirPods offer improved audio, longer battery life, and enhanced noise cancellation.",
-    image: ["../src/assets/imgs/airpods_4_with_active_noise_cancellation.jpg"],
+    image: ["../imgs/airpods_4_with_active_noise_cancellation.jpg"],
     price: 199,
   },
   {
@@ -187,7 +187,7 @@ export const productslist = [
     category: "airpods",
     description:
       "AirPods Pro deliver active noise cancellation, adaptive transparency, and spatial audio for immersive sound.",
-    image: ["../src/assets/imgs/airpods_4_with_active_noise_cancellation.jpg"],
+    image: ["../imgs/airpods_4_with_active_noise_cancellation.jpg"],
     price: 249,
   },
   {
@@ -196,7 +196,7 @@ export const productslist = [
     category: "airpods",
     description:
       "Over-ear AirPods with high-fidelity audio, active noise cancellation, and a premium aluminum design.",
-    image: ["../src/assets/imgs/airpods_max_2024.jpg"],
+    image: ["../imgs/airpods_max_2024.jpg"],
     price: 549,
   },
   {
@@ -205,7 +205,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A compact tracker that helps you locate lost items using the Find My network.",
-    image: ["../src/assets/imgs/airtag.jpg"],
+    image: ["../imgs/airtag.jpg"],
     price: 29,
   },
   {
@@ -214,7 +214,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A pack of four AirTags to keep track of all your important items.",
-    image: ["../src/assets/imgs/airtag-4pack.jpg"],
+    image: ["../imgs/airtag-4pack.jpg"],
     price: 99,
   },
   {
@@ -223,7 +223,7 @@ export const productslist = [
     category: "watches",
     description:
       "An affordable smartwatch with fitness tracking, heart rate monitoring, and Apple Pay support.",
-    image: ["../src/assets/imgs/apple_watch_se.jpg"],
+    image: ["../imgs/apple_watch_se.jpg"],
     price: 249,
   },
   {
@@ -232,7 +232,7 @@ export const productslist = [
     category: "watches",
     description:
       "The latest Apple Watch with advanced health tracking, new watch faces, and fast charging.",
-    image: ["../src/assets/imgs/apple_watch_series_10.jpg"],
+    image: ["../imgs/apple_watch_series_10.jpg"],
     price: 399,
   },
   {
@@ -241,7 +241,7 @@ export const productslist = [
     category: "watches",
     description:
       "A rugged smartwatch built for extreme conditions, featuring a titanium case and extended battery life.",
-    image: ["../src/assets/imgs/apple_watch_ultra_2.jpg"],
+    image: ["../imgs/apple_watch_ultra_2.jpg"],
     price: 799,
   },
   {
@@ -250,7 +250,7 @@ export const productslist = [
     category: "macbook",
     description:
       "A lightweight laptop with the M2 chip, stunning Retina display, and all-day battery life.",
-    image: ["../src/assets/imgs/macbook_air_space_gray.jpg"],
+    image: ["../imgs/macbook_air_space_gray.jpg"],
     price: 999,
   },
   {
@@ -259,7 +259,7 @@ export const productslist = [
     category: "macbook",
     description:
       "A powerful MacBook with a 16-inch Liquid Retina XDR display and M3 Max chip.",
-    image: ["../src/assets/imgs/macbook_pro_16_in_m3_pro_max.jpg"],
+    image: ["../imgs/macbook_pro_16_in_m3_pro_max.jpg"],
     price: 2499,
   },
   {
@@ -268,7 +268,7 @@ export const productslist = [
     category: "imac",
     description:
       "A compact powerhouse desktop with M2 chip, perfect for home or office setups.",
-    image: ["../src/assets/imgs/mac-mini.jpg"],
+    image: ["../imgs/mac-mini.jpg"],
     price: 599,
   },
   {
@@ -277,7 +277,7 @@ export const productslist = [
     category: "ipads",
     description:
       "iPad Pro 11 features the M2 chip, ProMotion technology, and an edge-to-edge Liquid Retina display.",
-    image: ["../src/assets/imgs/ipad_pro_11_m4.jpg"],
+    image: ["../imgs/ipad_pro_11_m4.jpg"],
     price: 799,
   },
   {
@@ -286,7 +286,7 @@ export const productslist = [
     category: "ipads",
     description:
       "The iPad Air offers a powerful M1 chip, a 10.9-inch Liquid Retina display, and Apple Pencil support.",
-    image: ["../src/assets/imgs/ipad_air_q324_11_m2.jpg"],
+    image: ["../imgs/ipad_air_q324_11_m2.jpg"],
     price: 599,
   },
   {
@@ -295,7 +295,7 @@ export const productslist = [
     category: "ipads",
     description:
       "A budget-friendly iPad with a larger 10.9-inch display and A14 Bionic chip.",
-    image: ["../src/assets/imgs/ipad_10th_generation_q123.jpg"],
+    image: ["../imgs/ipad_10th_generation_q123.jpg"],
     price: 449,
   },
   {
@@ -304,7 +304,7 @@ export const productslist = [
     category: "ipads",
     description:
       "Compact and powerful, the iPad Mini features an A15 Bionic chip and an 8.3-inch Liquid Retina display.",
-    image: ["../src/assets/imgs/ipad-mini.jpg"],
+    image: ["../imgs/ipad-mini.jpg"],
     price: 499,
   },
   {
@@ -313,7 +313,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A precise stylus for iPads, perfect for drawing and note-taking with low latency.",
-    image: ["../src/assets/imgs/apple-pencil.jpg"],
+    image: ["../imgs/apple-pencil.jpg"],
     price: 129,
   },
   {
@@ -322,7 +322,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A smooth, responsive trackpad with gesture support for Mac users.",
-    image: ["../src/assets/imgs/apple-touchpad.png"],
+    image: ["../imgs/apple-touchpad.png"],
     price: 149,
   },
   {
@@ -331,7 +331,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A magnetic car mount for securely holding your iPhone while driving.",
-    image: ["../src/assets/imgs/car-mount.jpg"],
+    image: ["../imgs/car-mount.jpg"],
     price: 49,
   },
   {
@@ -340,7 +340,7 @@ export const productslist = [
     category: "imac",
     description:
       "The M3-powered iMac with a 24-inch 4.5K Retina display and vibrant color options.",
-    image: ["../src/assets/imgs/imac_m3.jpg"],
+    image: ["../imgs/imac_m3.jpg"],
     price: 1299,
   },
   {
@@ -349,7 +349,7 @@ export const productslist = [
     category: "imac",
     description:
       "An upgraded iMac featuring the M4 chip for blazing-fast performance.",
-    image: ["../src/assets/imgs/imac_m4_chip_2-port_24.jpg"],
+    image: ["../imgs/imac_m4_chip_2-port_24.jpg"],
     price: 1499,
   },
   {
@@ -358,7 +358,7 @@ export const productslist = [
     category: "imac",
     description:
       "A powerful desktop with M2 Ultra or M2 Max chip for ultimate performance.",
-    image: ["../src/assets/imgs/mac_studio.jpg"],
+    image: ["../imgs/mac_studio.jpg"],
     price: 1999,
   },
   {
@@ -366,7 +366,7 @@ export const productslist = [
     title: "Apple Magic Mouse Silver",
     category: "accesories",
     description: "A sleek, rechargeable multi-touch mouse in silver.",
-    image: ["../src/assets/imgs/magic_mouse_silver.jpg"],
+    image: ["../imgs/magic_mouse_silver.jpg"],
     price: 79,
   },
   {
@@ -375,7 +375,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A stylish black edition of the Magic Mouse with a smooth design.",
-    image: ["../src/assets/imgs/magic_mouse_black.jpg"],
+    image: ["../imgs/magic_mouse_black.jpg"],
     price: 79,
   },
   {
@@ -384,7 +384,7 @@ export const productslist = [
     category: "accesories",
     description:
       "A wireless keyboard with Touch ID for seamless authentication.",
-    image: ["../src/assets/imgs/keyboard.jpeg"],
+    image: ["../imgs/keyboard.jpeg"],
     price: 149,
   },
   {
@@ -392,7 +392,7 @@ export const productslist = [
     title: "Apple Pro Display",
     category: "display",
     description: "A stunning 5K Retina display for professional workflows.",
-    image: ["../src/assets/imgs/pro-display-hero.jpeg"],
+    image: ["../imgs/pro-display-hero.jpeg"],
     price: 1299,
   },
   {
@@ -401,7 +401,7 @@ export const productslist = [
     category: "display",
     description:
       "A high-end 6K HDR display designed for creatives and professionals.",
-    image: ["../src/assets/imgs/prodisplay.jpeg"],
+    image: ["../imgs/prodisplay.jpeg"],
     price: 4999,
   },
   {
@@ -410,7 +410,7 @@ export const productslist = [
     category: "display",
     description:
       "A 27-inch Retina 5K display with True Tone and P3 wide color.",
-    image: ["../src/assets/imgs/studio_display_pdp.jpg"],
+    image: ["../imgs/studio_display_pdp.jpg"],
     price: 1599,
   },
   {
@@ -418,7 +418,7 @@ export const productslist = [
     title: "Apple Power Bank",
     category: "accesories",
     description: "A portable MagSafe battery pack for on-the-go charging.",
-    image: ["../src/assets/imgs/power-bank-01_square.jpeg"],
+    image: ["../imgs/power-bank-01_square.jpeg"],
     price: 99,
   },
 ];
@@ -462,23 +462,34 @@ export const ownersPosts = [
 ];
 
 export const topics = [
-  { title: "iPhone Evolution", description: "A look at how the iPhone has evolved over the years." },
-  { title: "Mac vs. PC", description: "A comparison of Apple Macs and traditional PCs." },
-  { title: "Apple Ecosystem", description: "How Apple devices work together seamlessly." },
-  { title: "iOS vs. Android", description: "A deep dive into the differences between iOS and Android." }
+  { title: "iPhone Evolution", description: "A look at how the iPhone has evolved over the years.", link: "https://www.computerworld.com/article/1622162/evolution-of-apple-iphone.html" },
+  { title: "Mac vs. PC", description: "A comparison of Apple Macs and traditional PCs.", link: "https://www.techstep.io/articles/mac-vs-pc-the-never-ending-debate" },
+  { title: "Apple Ecosystem", description: "How Apple devices work together seamlessly.", link: "https://techjourneyman.com/blog/apple-ecosystem-explained-2024" },
+  { title: "The best Macbook for 2025", description: "A deep dive into the differences between iOS and Android.", link: "https://www.pcmag.com/picks/macbook-air-or-macbook-pro-which-should-you-buy" },
+  { title: "iPhone 16 Pro Max Review", description: "A deep dive into the differences between iOS and Android.", link: "https://www.applevis.com/blog/iphone-16-pro-max-review-some-thoughts-which-model-buy" },
+  { title: "Apple Car Play", description: "A deep dive into the differences between iOS and Android.", link: "https://www.techradar.com/vehicle-tech/i-finally-tried-car-play-and-now-i-m-convinced-apple-should-never-build-a-car-but-not-for-the-reason-you-think" }
 ];
 
 export const articles = [
-  { title: "The Future of Apple Silicon", link: "#" },
-  { title: "Why Apple Removed the Headphone Jack", link: "#" },
-  { title: "The History of macOS", link: "#" },
-  { title: "Apple's Privacy Policies Explained", link: "#" }
+  { title: "The Future of Apple Silicon", link: "https://www.macrumors.com/guide/apple-silicon/#:~:text=Future%20Arm%2DBased%20Macs,advanced%203%2Dnanometer%20process%20technology." },
+  { title: "Why Apple Removed the Headphone Jack", link: "https://www.syncwire.com/blogs/news/why-did-apple-remove-the-headphone-jack" },
+  { title: "The History of macOS", link: "https://www.britannica.com/technology/macOS" },
+  { title: "Apple's Privacy Policies Explained", link: "https://www.efficy.com/apple-new-privacy-update/" }
 ];
 
 export const videos = [
-  { title: "Introduction to the iPhone 16", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-  { title: "Why MacBooks Last Longer", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-  { title: "Inside Apple's Product Design", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+  { title: "Introduction to the iPhone 16", link: "https://www.youtube.com/watch?v=GDlkCkcIqTs" },
+  { title: "Why MacBooks Last Longer", link: "https://www.youtube.com/watch?v=b6lty56NV_E" },
+  { title: "Inside Apple's Product Design", link: "https://www.youtube.com/watch?v=VbeM8Lf7s5A" },
+  { title: "Inside Apple's Factory", link: "https://www.youtube.com/watch?v=6_xu5ycqTnM" },
+  { title: "Designed by Apple in California", link: "https://www.youtube.com/watch?v=IkskY9bL9Bk" },
+  { title: "Stunning Apple Stores", link: "https://www.youtube.com/watch?v=AUHFC3TwGhM" },
+  { title: "Software Design | Steve Jobs", link: "https://www.youtube.com/watch?v=kl2Flp4oK-g" },
+  { title: "Apple CEO Tim Cook", link: "https://www.youtube.com/watch?v=m4RVTK7iU1c" },
+  { title: "The new MacBook Pro", link: "https://www.youtube.com/watch?v=IHTT_7AjoU8" },
+  { title: "Celebrating Steve", link: "https://www.youtube.com/watch?v=CeSAjK2CBEA" },
+  { title: "The Relay | Apple", link: "https://www.youtube.com/watch?v=BPqir3EZolw" },
+  { title: "Apple Intelligence on iPhone", link: "https://www.youtube.com/watch?v=PugKQZHPut8" }
 ];
 
 
@@ -509,6 +520,3 @@ export const customerServices = [
   { name: "HelpDesk", url: "https://support.apple.com" },
   { name: "iCloud Services", url: "https://www.icloud.com" },
 ];
-
-
-

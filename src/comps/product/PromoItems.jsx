@@ -1,5 +1,5 @@
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from "react-icons/md";
-import { promolist } from "../../assets/data/data";
+import { promolist } from "../data/data";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

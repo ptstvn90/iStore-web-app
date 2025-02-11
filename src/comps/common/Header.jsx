@@ -1,15 +1,13 @@
 import React, { useEffect, useRef, useState } from "react";
-import Logo from "../../assets/imgs/logo.png";
+import Logo from "/imgs/logo.png";
 import { IoSearchOutline, IoMenu, IoClose } from "react-icons/io5";
 import { ModalCart } from "../cart/ModalCart";
-import { productslist } from "../../assets/data/data";
 
 export const Header = ({ products }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredProducts, setFilteredProducts] = useState([]);
   const [showSearch, setShowSearch] = useState(false);
-  
 
   const menuRef = useRef(null);
 
@@ -28,19 +26,19 @@ export const Header = ({ products }) => {
   const handleSearch = (e) => {
     const query = e.target.value.toLowerCase().trim();
     setSearchQuery(query);
-  
+
     console.log("Search Query:", query);
     console.log("Products List:", products);
-  
+
     if (!products || products.length === 0) {
       setFilteredProducts([]);
       return;
     }
-  
+
     const filtered = products.filter((product) =>
       product.title.toLowerCase().includes(query)
     );
-  
+
     console.log("Filtered Products:", filtered);
     setFilteredProducts(filtered);
   };
