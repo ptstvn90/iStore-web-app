@@ -7,7 +7,7 @@ export { ShippingInformation } from "../comps/product/ShippingInformation";
 export { ProductBanner } from "../comps/product/ProductBanner";
 export { OwnerShipPosts } from "../comps/product/OwnerShipPosts";
 export { CartPage } from "../screen/CartPage/CartPage";
-export { AboutApple } from "../screen/About/AboutApple"
+export { AboutApple } from "../screen/About/aboutApple";
 export { AppleSupport } from "../screen/Support/AppleSupport";
 
 
