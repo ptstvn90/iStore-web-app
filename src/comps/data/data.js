@@ -15,7 +15,7 @@ export const promolist = [
     category: "phone",
     description:
       "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass.",
-    image: "../iphone_15_pro.jpg",
+    image: "../imgs/iphone_15_pro.jpg",
     price: 1099,
   },
 
